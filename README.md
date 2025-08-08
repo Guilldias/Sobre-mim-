@@ -19,12 +19,12 @@
 
 ### Ferramentas de desenvolvimento 
 
-
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,idea,sublime,figma,postman,ibexpert,nosql)](https://skillicons.dev)
 
  
 
- 
+ ### estatisticas 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 
 
