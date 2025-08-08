@@ -23,7 +23,7 @@
 
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Guilldias=anuraghazra&show_icons=true&theme=transparent))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilldias&show_icons=true&theme=transparent))
 
 
 
