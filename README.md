@@ -9,7 +9,7 @@
 
   ### Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,ts,docker,node,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,ts,docker,nodejs,java)](https://skillicons.dev)
 
 
  ### Frameworks e bibliotecas
@@ -20,7 +20,7 @@
 ### Ferramentas de desenvolvimento 
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,idea,sublime,xamp,figma,postman,ibexpert,mysql,nosql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,idea,sublime,xamp,figma,postman,ibexpert,nosql)](https://skillicons.dev)
 
  
 
