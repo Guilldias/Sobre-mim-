@@ -1,9 +1,9 @@
-<h1 align="center">Olá, Me chamo Guilherme!👋</h1>
+<h1 align="center">Olá, Me chamo Guilherme! Logo abaixo estara todas as minhas especialidades atualmente👋</h1>
 
 ### Sobre mim
 
 - 👨‍💻 Apaixonado por desenvolvimento de software e resolução de problemas.
-- 🚀 Autodidata, sempre em busca de novos conhecimentos e desafios.
+- 🚀 estudioso, sempre em busca de novos conhecimentos e desafios.
 - 💡 Atualmente estudando: typescript, React, desenvolvimento web full stack e Algoritmos.
 - 📫 Como entrar em contato comigo: guilhermersilvaoliveira@gmail.com(mailto:guilhermersilvaoliveira@gmail.com)
 
@@ -20,7 +20,7 @@
 ### Ferramentas de desenvolvimento 
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,idea,sublime,xamp,figma,postman,ibexpert,nosql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,idea,sublime,figma,postman,ibexpert,nosql)](https://skillicons.dev)
 
  
 
